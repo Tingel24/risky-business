@@ -3,7 +3,7 @@
 <a><img src="https://github.com/Tingel24/risky-business/blob/1be157b2a771925f72fd76859998a1d96574fba5/images/risky-business-logo.png" alt="risky-business" width="250" height="250" title="risky-business" style="border-radius: 50%;"></a>
 </p>
 <h3 align="center">Risky Business</h3>
-<p align="center">    An innovative, fully automated command line software for in-flight radiometric calibration of UAV-mounted 2D snapshot multi-camera imagery<br /></p>
+<p align="center">Investigating the inherent tension between safe outputs and transparent reasoning traces in LRMs<br /></p>
 <p align="center">
   <a href="https://github.com/Tingel24/risky-business/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Tingel24/risky-business" alt="License"></a>
   <a href="https://github.com/Tingel24/risky-business/network/members"><img src="https://img.shields.io/github/forks/Tingel24/risky-business?style=social" alt="GitHub forks"></a>
