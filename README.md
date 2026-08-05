@@ -13,6 +13,8 @@
 <a href="https://github.com/Tingel24/risky-business/issues">Report Bug</a>
 ·
 <a href="https://github.com/Tingel24/risky-business/issues">Request Feature</a>
+·
+<a href="https://arxiv.org/abs/2608.03745">Link to ArXiv Paper</a>
 </p>
 <p>
 </p>
