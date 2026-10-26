@@ -8,6 +8,8 @@
   <a href="https://github.com/Tingel24/risky-business/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Tingel24/risky-business" alt="License"></a>
   <a href="https://github.com/Tingel24/risky-business/network/members"><img src="https://img.shields.io/github/forks/Tingel24/risky-business?style=social" alt="GitHub forks"></a>
   <a href="https://github.com/Tingel24/risky-business/stargazers"><img src="https://img.shields.io/github/stars/Tingel24/risky-business?style=social" alt="GitHub stars"></a>
+    <a href="https://huggingface.co/datasets/LFrancis/hazmart"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg" alt="Dataset on HF"></a>
+
 </p>
 <p>
 <a href="https://github.com/Tingel24/risky-business/issues">Report Bug</a>
