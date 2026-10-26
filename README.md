@@ -8,7 +8,7 @@
   <a href="https://github.com/Tingel24/risky-business/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Tingel24/risky-business" alt="License"></a>
   <a href="https://github.com/Tingel24/risky-business/network/members"><img src="https://img.shields.io/github/forks/Tingel24/risky-business?style=social" alt="GitHub forks"></a>
   <a href="https://github.com/Tingel24/risky-business/stargazers"><img src="https://img.shields.io/github/stars/Tingel24/risky-business?style=social" alt="GitHub stars"></a>
-    <a href="https://huggingface.co/datasets/LFrancis/hazmart"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg" alt="Dataset on HF"></a>
+    <a href="https://huggingface.co/datasets/LFrancis/hazmart"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-HazMart-FFD21E" alt="Dataset on HF" height="20"></a>
 
 </p>
 <p>
@@ -52,7 +52,7 @@ run-scripts assume a workspace named "models" and "TRITON_CACHE"
 
 `ws_allocate -d 30 TRITON_CACHE`
 
-`ẁs_allocate -d 30 models`
+`ws_allocate -d 30 models`
 
 If your cluster does not use the `hpc-workspace` toolkit, you will need to hardcode the paths captured using `ws_find` in the scripts.
 
